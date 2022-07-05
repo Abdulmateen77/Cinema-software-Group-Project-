@@ -1,0 +1,10 @@
+ÿlocalhost                                                                                                                                                                           root                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       R‰	2022-06-20 21:11:15 52304 [Note] Event Scheduler: Loaded 0 events
+2022-06-20 21:11:15 52304 [Note] C:\Users\HOME\OneDrive\Desktop\GP3.1\EASYPH~1\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2022-06-21 01:40:35 52304 [Note] C:\Users\HOME\OneDrive\Desktop\GP3.1\EASYPH~1\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2022-06-21 01:40:35 52304 [Note] Giving 0 client threads a chance to die gracefully
+2022-06-21 01:40:35 52304 [Note] Event Scheduler: Purging the queue. 0 events
+2022-06-21 01:40:35 52304 [Note] Shutting down slave threads
+2022-06-21 01:40:35 52304 [Note] Forcefully disconnecting 0 remaining clients
+2022-06-21 01:40:35 52304 [Note] Binlog end
